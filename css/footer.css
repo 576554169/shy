@@ -1,0 +1,20 @@
+#commonNav {
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    z-index: 31;
+    box-sizing: border-box;
+    width: 100%;
+    list-style: none;
+    font-size: 16px;
+    background-color: #fff;
+}
+#mCommonHome{
+    float: left;
+}
+.icon-center img{
+    width: 0.6rem;
+    height: 0.46rem;
+}
